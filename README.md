@@ -1,6 +1,6 @@
 Tip Calculator : A simple tip calculator built using HTML, CSS, and JavaScript.
 
-Screenshot: ![Tip Calculator](assets/tip-cal1.png) (assets/tip-cal2.png)
+Screenshot: ![Tip Calculator](assets/tip-cal1.png) ![Tip Calculator](assets/tip-cal2.png)
 
 Features:
 - Calculate tip amount
